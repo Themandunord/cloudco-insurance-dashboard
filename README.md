@@ -3,7 +3,7 @@
 <!-- No tests are set up currently
 | **master** | [![Build Status](https://travis-ci.org/IBM-Bluemix/insurance-bot-dashboard.svg?branch=master)](https://travis-ci.org/IBM-Bluemix/insurance-bot-dashboard) |
 | ----- | ----- |
-| **dev** | [![Build Status](https://travis-ci.org/IBM-Bluemix/insurance-bot-dashboard.svg?branch=dev)](https://travis-ci.org/IBM-Bluemix/insurance-bot-dashboard) |
+| **dev** | [![Build Status](https://travis-ci.org/IBM-Bluemix/insurance-bot-dashboard.svg?branch=dev)](https://travis-ci.org/IBM-Bluemix/insurance-bot-dashboard) [![Greenkeeper badge](https://badges.greenkeeper.io/Themandunord/cloudco-insurance-dashboard.svg)](https://greenkeeper.io/) |
  -->
 
 This repository is part of the larger [Cloud Insurance Co.](https://github.com/IBM-Bluemix/cloudco-insurance) project.
